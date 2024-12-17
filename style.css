@@ -1,0 +1,13 @@
+
+
+body {
+    margin: 0;
+}
+
+.game-container {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    flex-direction: column;
+    padding: 25%;
+}
